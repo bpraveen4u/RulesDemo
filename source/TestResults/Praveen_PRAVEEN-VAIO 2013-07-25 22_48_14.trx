@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="94bd9672-ec2b-4dca-bb98-ec744da6fedc" name="Praveen@PRAVEEN-VAIO 2013-07-25 22:48:14" runUser="Praveen-VAIO\Praveen" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="83509279-feac-4b7e-a2ac-4a086aefac4c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Praveen_PRAVEEN-VAIO 2013-07-25 22_48_14">
+      <DeploymentItem filename="F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\Core\bin\Debug\Core.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-07-25T22:48:14.5014056+05:30" queuing="2013-07-25T22:48:17.6582388+05:30" start="2013-07-25T22:48:17.8713816+05:30" finish="2013-07-25T22:48:18.8620417+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Return22PctFor5YearsLoyalCustomerOnBirthDay" storage="f:\development\pluralsight_videos\design patterns\32_rules pattern\rulesdemo\unittests\bin\debug\unittests.dll" id="2510bde1-b454-8e81-4943-acb3a8ba55b4">
+      <Execution id="be130e87-f682-4000-b9b1-4fb95debf658" />
+      <TestMethod codeBase="F:/Development/Pluralsight_videos/Design Patterns/32_Rules Pattern/RulesDemo/UnitTests/bin/Debug/UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.StoreExample.DiscountCalculatorTest, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Return22PctFor5YearsLoyalCustomerOnBirthDay" />
+    </UnitTest>
+    <UnitTest name="Return15PercentageForNewCustomer" storage="f:\development\pluralsight_videos\design patterns\32_rules pattern\rulesdemo\unittests\bin\debug\unittests.dll" id="2d7fed59-ad43-863d-5ed1-4532e934d973">
+      <Execution id="54f2ef43-ef3a-487c-b495-b7bfe18e7fd0" />
+      <TestMethod codeBase="F:/Development/Pluralsight_videos/Design Patterns/32_Rules Pattern/RulesDemo/UnitTests/bin/Debug/UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.StoreExample.DiscountCalculatorTest, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Return15PercentageForNewCustomer" />
+    </UnitTest>
+    <UnitTest name="Return12PctFor5YearsLoyalCustomer" storage="f:\development\pluralsight_videos\design patterns\32_rules pattern\rulesdemo\unittests\bin\debug\unittests.dll" id="93f30d89-6950-500d-977b-01832703a7c4">
+      <Execution id="4c52a4de-93c6-440d-86f8-b98b2e0fba31" />
+      <TestMethod codeBase="F:/Development/Pluralsight_videos/Design Patterns/32_Rules Pattern/RulesDemo/UnitTests/bin/Debug/UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.StoreExample.DiscountCalculatorTest, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Return12PctFor5YearsLoyalCustomer" />
+    </UnitTest>
+    <UnitTest name="Return5PercentSenior" storage="f:\development\pluralsight_videos\design patterns\32_rules pattern\rulesdemo\unittests\bin\debug\unittests.dll" id="8992ee32-3844-6cb3-c3b2-384cbb1be0f3">
+      <Execution id="5885ea96-1661-4c34-a0a0-d8e48715572d" />
+      <TestMethod codeBase="F:/Development/Pluralsight_videos/Design Patterns/32_Rules Pattern/RulesDemo/UnitTests/bin/Debug/UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.StoreExample.DiscountCalculatorTest, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Return5PercentSenior" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2510bde1-b454-8e81-4943-acb3a8ba55b4" executionId="be130e87-f682-4000-b9b1-4fb95debf658" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2d7fed59-ad43-863d-5ed1-4532e934d973" executionId="54f2ef43-ef3a-487c-b495-b7bfe18e7fd0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8992ee32-3844-6cb3-c3b2-384cbb1be0f3" executionId="5885ea96-1661-4c34-a0a0-d8e48715572d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="93f30d89-6950-500d-977b-01832703a7c4" executionId="4c52a4de-93c6-440d-86f8-b98b2e0fba31" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="be130e87-f682-4000-b9b1-4fb95debf658" testId="2510bde1-b454-8e81-4943-acb3a8ba55b4" testName="Return22PctFor5YearsLoyalCustomerOnBirthDay" computerName="PRAVEEN-VAIO" duration="00:00:00.0422928" startTime="2013-07-25T22:48:17.9324221+05:30" endTime="2013-07-25T22:48:18.7399602+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="be130e87-f682-4000-b9b1-4fb95debf658">
+    </UnitTestResult>
+    <UnitTestResult executionId="54f2ef43-ef3a-487c-b495-b7bfe18e7fd0" testId="2d7fed59-ad43-863d-5ed1-4532e934d973" testName="Return15PercentageForNewCustomer" computerName="PRAVEEN-VAIO" duration="00:00:00.0006371" startTime="2013-07-25T22:48:18.7469651+05:30" endTime="2013-07-25T22:48:18.7589727+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="54f2ef43-ef3a-487c-b495-b7bfe18e7fd0">
+    </UnitTestResult>
+    <UnitTestResult executionId="5885ea96-1661-4c34-a0a0-d8e48715572d" testId="8992ee32-3844-6cb3-c3b2-384cbb1be0f3" testName="Return5PercentSenior" computerName="PRAVEEN-VAIO" duration="00:00:00.0010677" startTime="2013-07-25T22:48:18.7759847+05:30" endTime="2013-07-25T22:48:18.7849900+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5885ea96-1661-4c34-a0a0-d8e48715572d">
+    </UnitTestResult>
+    <UnitTestResult executionId="4c52a4de-93c6-440d-86f8-b98b2e0fba31" testId="93f30d89-6950-500d-977b-01832703a7c4" testName="Return12PctFor5YearsLoyalCustomer" computerName="PRAVEEN-VAIO" duration="00:00:00.0006543" startTime="2013-07-25T22:48:18.7909953+05:30" endTime="2013-07-25T22:48:18.7969985+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4c52a4de-93c6-440d-86f8-b98b2e0fba31">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7986aa81-6fba-42d2-bd3b-da79673d544e" name="Praveen@PRAVEEN-VAIO 2013-07-01 23:53:29" runUser="Praveen-VAIO\Praveen" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="83509279-feac-4b7e-a2ac-4a086aefac4c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Praveen_PRAVEEN-VAIO 2013-07-01 23_53_29">
+      <DeploymentItem filename="F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\Core\bin\Debug\Core.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-07-01T23:53:29.9883714+05:30" queuing="2013-07-01T23:53:30.0714278+05:30" start="2013-07-01T23:53:30.0834354+05:30" finish="2013-07-01T23:53:30.7138560+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Return22PctFor5YearsLoyalCustomerOnBirthDay" storage="f:\development\pluralsight_videos\design patterns\32_rules pattern\rulesdemo\unittests\bin\debug\unittests.dll" id="2510bde1-b454-8e81-4943-acb3a8ba55b4">
+      <Execution id="ad544fa3-3d0a-4052-b679-318d4a160e8d" />
+      <TestMethod codeBase="F:/Development/Pluralsight_videos/Design Patterns/32_Rules Pattern/RulesDemo/UnitTests/bin/Debug/UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.StoreExample.DiscountCalculatorTest, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Return22PctFor5YearsLoyalCustomerOnBirthDay" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2510bde1-b454-8e81-4943-acb3a8ba55b4" executionId="ad544fa3-3d0a-4052-b679-318d4a160e8d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ad544fa3-3d0a-4052-b679-318d4a160e8d" testId="2510bde1-b454-8e81-4943-acb3a8ba55b4" testName="Return22PctFor5YearsLoyalCustomerOnBirthDay" computerName="PRAVEEN-VAIO" duration="00:00:00.0519936" startTime="2013-07-01T23:53:30.0914403+05:30" endTime="2013-07-01T23:53:30.6558182+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ad544fa3-3d0a-4052-b679-318d4a160e8d">
+    </UnitTestResult>
+  </Results>
+</TestRun>

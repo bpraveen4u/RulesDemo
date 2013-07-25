@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c1682bdb-772d-48bd-9a04-a00d6fc1dbc1" name="Praveen@PRAVEEN-VAIO 2013-07-01 23:31:55" runUser="Praveen-VAIO\Praveen" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="83509279-feac-4b7e-a2ac-4a086aefac4c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Praveen_PRAVEEN-VAIO 2013-07-01 23_31_55">
+      <DeploymentItem filename="F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\Core\bin\Debug\Core.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-07-01T23:31:55.4500823+05:30" queuing="2013-07-01T23:31:58.2382890+05:30" start="2013-07-01T23:31:58.5044664+05:30" finish="2013-07-01T23:32:23.8157353+05:30" />
+  <ResultSummary outcome="Error">
+    <Counters total="2" executed="2" passed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="PRAVEEN-VAIO" outcome="Error" timestamp="2013-07-01T23:32:23.8137335+05:30">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Return5PercentSenior" storage="f:\development\pluralsight_videos\design patterns\32_rules pattern\rulesdemo\unittests\bin\debug\unittests.dll" id="8992ee32-3844-6cb3-c3b2-384cbb1be0f3">
+      <Execution id="1285fe4b-ad5c-433d-9edb-32a8061c1b7d" />
+      <TestMethod codeBase="F:/Development/Pluralsight_videos/Design Patterns/32_Rules Pattern/RulesDemo/UnitTests/bin/Debug/UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.StoreExample.DiscountCalculatorTest, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Return5PercentSenior" />
+    </UnitTest>
+    <UnitTest name="Return15PercentageForNewCustomer" storage="f:\development\pluralsight_videos\design patterns\32_rules pattern\rulesdemo\unittests\bin\debug\unittests.dll" id="2d7fed59-ad43-863d-5ed1-4532e934d973">
+      <Execution id="1e0e3509-7e9f-4179-988f-70eb29caa035" />
+      <TestMethod codeBase="F:/Development/Pluralsight_videos/Design Patterns/32_Rules Pattern/RulesDemo/UnitTests/bin/Debug/UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.StoreExample.DiscountCalculatorTest, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Return15PercentageForNewCustomer" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2d7fed59-ad43-863d-5ed1-4532e934d973" executionId="1e0e3509-7e9f-4179-988f-70eb29caa035" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8992ee32-3844-6cb3-c3b2-384cbb1be0f3" executionId="1285fe4b-ad5c-433d-9edb-32a8061c1b7d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="1e0e3509-7e9f-4179-988f-70eb29caa035" testId="2d7fed59-ad43-863d-5ed1-4532e934d973" testName="Return15PercentageForNewCustomer" computerName="PRAVEEN-VAIO" duration="00:00:00.0621201" startTime="2013-07-01T23:31:58.6775820+05:30" endTime="2013-07-01T23:32:01.5134714+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1e0e3509-7e9f-4179-988f-70eb29caa035">
+    </UnitTestResult>
+    <UnitTestResult executionId="1285fe4b-ad5c-433d-9edb-32a8061c1b7d" testId="8992ee32-3844-6cb3-c3b2-384cbb1be0f3" testName="Return5PercentSenior" computerName="PRAVEEN-VAIO" duration="00:00:22.2602354" startTime="2013-07-01T23:32:01.5544994+05:30" endTime="2013-07-01T23:32:23.8147348+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1285fe4b-ad5c-433d-9edb-32a8061c1b7d">
+    </UnitTestResult>
+  </Results>
+</TestRun>

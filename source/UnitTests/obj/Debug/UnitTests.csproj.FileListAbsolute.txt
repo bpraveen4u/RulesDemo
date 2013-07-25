@@ -1,0 +1,21 @@
+F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\UnitTests\bin\Debug\UnitTests.dll
+F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\UnitTests\bin\Debug\UnitTests.pdb
+F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\UnitTests\bin\Debug\Core.dll
+F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\UnitTests\bin\Debug\Core.pdb
+F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\UnitTests\obj\Debug\UnitTests.dll
+F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\UnitTests\obj\Debug\UnitTests.pdb
+F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\source\UnitTests\bin\Debug\UnitTests.dll
+F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\source\UnitTests\bin\Debug\UnitTests.pdb
+F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\source\UnitTests\bin\Debug\Core.dll
+F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\source\UnitTests\bin\Debug\Core.pdb
+F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\source\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\source\UnitTests\obj\Debug\UnitTests.dll
+F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\source\UnitTests\obj\Debug\UnitTests.pdb
+F:\Development\repos\RulesDemo\source\UnitTests\bin\Debug\UnitTests.dll
+F:\Development\repos\RulesDemo\source\UnitTests\bin\Debug\UnitTests.pdb
+F:\Development\repos\RulesDemo\source\UnitTests\bin\Debug\Core.dll
+F:\Development\repos\RulesDemo\source\UnitTests\bin\Debug\Core.pdb
+F:\Development\repos\RulesDemo\source\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+F:\Development\repos\RulesDemo\source\UnitTests\obj\Debug\UnitTests.dll
+F:\Development\repos\RulesDemo\source\UnitTests\obj\Debug\UnitTests.pdb

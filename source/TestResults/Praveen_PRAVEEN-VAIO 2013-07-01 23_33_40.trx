@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0eec1077-9c8c-477f-974f-fbefae81e2da" name="Praveen@PRAVEEN-VAIO 2013-07-01 23:33:40" runUser="Praveen-VAIO\Praveen" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="83509279-feac-4b7e-a2ac-4a086aefac4c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Praveen_PRAVEEN-VAIO 2013-07-01 23_33_40">
+      <DeploymentItem filename="F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\Core\bin\Debug\Core.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-07-01T23:33:40.1706275+05:30" queuing="2013-07-01T23:33:40.3037156+05:30" start="2013-07-01T23:33:40.3497475+05:30" finish="2013-07-01T23:33:41.6326023+05:30" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Return5PercentSenior" storage="f:\development\pluralsight_videos\design patterns\32_rules pattern\rulesdemo\unittests\bin\debug\unittests.dll" id="8992ee32-3844-6cb3-c3b2-384cbb1be0f3">
+      <Execution id="06187cbf-d22b-4f8c-a0d2-ac8ce24827fb" />
+      <TestMethod codeBase="F:/Development/Pluralsight_videos/Design Patterns/32_Rules Pattern/RulesDemo/UnitTests/bin/Debug/UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.StoreExample.DiscountCalculatorTest, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Return5PercentSenior" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="8992ee32-3844-6cb3-c3b2-384cbb1be0f3" executionId="06187cbf-d22b-4f8c-a0d2-ac8ce24827fb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="06187cbf-d22b-4f8c-a0d2-ac8ce24827fb" testId="8992ee32-3844-6cb3-c3b2-384cbb1be0f3" testName="Return5PercentSenior" computerName="PRAVEEN-VAIO" duration="00:00:00.1351678" startTime="2013-07-01T23:33:40.3837689+05:30" endTime="2013-07-01T23:33:41.5775728+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="06187cbf-d22b-4f8c-a0d2-ac8ce24827fb">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;0.05&gt;. Actual:&lt;0.15&gt;. </Message>
+          <StackTrace>   at UnitTests.StoreExample.DiscountCalculatorTest.Return5PercentSenior() in F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\UnitTests\StoreExample\DiscountCalculatorTest.cs:line 83
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

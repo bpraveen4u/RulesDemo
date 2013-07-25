@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8d18f8de-610d-453c-9ba2-d9caa81eb1a8" name="Praveen@PRAVEEN-VAIO 2013-07-01 23:30:35" runUser="Praveen-VAIO\Praveen" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="83509279-feac-4b7e-a2ac-4a086aefac4c">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Praveen_PRAVEEN-VAIO 2013-07-01 23_30_35">
+      <DeploymentItem filename="F:\Development\Pluralsight_videos\Design Patterns\32_Rules Pattern\RulesDemo\Core\bin\Debug\Core.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-07-01T23:30:35.9706435+05:30" queuing="2013-07-01T23:30:36.0657075+05:30" start="2013-07-01T23:30:36.0787163+05:30" finish="2013-07-01T23:30:36.9062678+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Return15PercentageForNewCustomer" storage="f:\development\pluralsight_videos\design patterns\32_rules pattern\rulesdemo\unittests\bin\debug\unittests.dll" id="2d7fed59-ad43-863d-5ed1-4532e934d973">
+      <Execution id="2fcb8a5b-f022-44dc-b7b2-150b16067b61" />
+      <TestMethod codeBase="F:/Development/Pluralsight_videos/Design Patterns/32_Rules Pattern/RulesDemo/UnitTests/bin/Debug/UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTests.StoreExample.DiscountCalculatorTest, UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Return15PercentageForNewCustomer" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2d7fed59-ad43-863d-5ed1-4532e934d973" executionId="2fcb8a5b-f022-44dc-b7b2-150b16067b61" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2fcb8a5b-f022-44dc-b7b2-150b16067b61" testId="2d7fed59-ad43-863d-5ed1-4532e934d973" testName="Return15PercentageForNewCustomer" computerName="PRAVEEN-VAIO" duration="00:00:00.0543303" startTime="2013-07-01T23:30:36.0887226+05:30" endTime="2013-07-01T23:30:36.8252140+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2fcb8a5b-f022-44dc-b7b2-150b16067b61">
+    </UnitTestResult>
+  </Results>
+</TestRun>
